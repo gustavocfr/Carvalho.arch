@@ -1,0 +1,7 @@
+{
+  "name": "Carvalho Arch Portfolio",
+  "description": "A sophisticated, minimalist architecture portfolio designed with Brazilian modernist aesthetics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
